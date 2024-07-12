@@ -3,7 +3,7 @@ import React from "react";
 const ContributionSection = () => {
   return (
     <>
-      <div className=" flex flex-col text-white justify-center items-center p-2">
+      <section className=" flex flex-col text-white justify-center items-center p-2">
      
         <h2 className="text-white text-center pb-5 text-4xl font-extralight">
           Our Contribution
@@ -43,7 +43,7 @@ const ContributionSection = () => {
             </p>
           </div>
         </div>
-      </div>
+      </section>
     </>
   );
 };
