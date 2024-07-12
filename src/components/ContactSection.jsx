@@ -12,7 +12,7 @@ const ContactSection = () => {
         our 
         affiliated brands, don't hesitate to connect. You can reach out to us
         via 
-        email at hello@abc.com or give us a call at +91 480 20802730.
+        email at <span className="font-bold">hello@abc.com</span> or give us a call at <span className="font-bold">+91 480 20802730.</span>
       </p>
       <div className="flex flex-col lg:flex-row  gap-8 items-center mt-12 font-light">
         <button className="bg-black border-white border last: text-white w-[300px]  px-4 py-2  flex  justify-center hover:bg-white hover:text-black cursor-pointer">
